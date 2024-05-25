@@ -37,4 +37,4 @@ This Privacy Policy is effective as of [[Date]] and will remain in effect except
 
 ## Contact Information
 
-For any questions or concerns regarding the privacy policy, please send [["us" or "me"]] an email to [[Contact Email Address]].
+For any questions or concerns regarding the privacy policy, please send [["us" or "me"]] an email to [[mohamedaz025@gmail.com]].
