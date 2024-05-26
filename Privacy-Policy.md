@@ -5,12 +5,12 @@
 
 ## Collection of Routine Information
 
-This [["website" or "app"]] track basic information about their [["visitors" or "users"]]. This information includes, but is not limited to, IP addresses, [["browser" or "app"]] details, timestamps and referring pages. None of this information can personally identify specific [["visitors" or "user"]] to this [["website" or "app"]]. The information is tracked for routine administration and maintenance purposes.
+This [["https://assilatours-web.web.app/" or "app"]] track basic information about their [["1.0.0" or "users"]]. This information includes, but is not limited to, IP addresses, [["browser" or "app"]] details, timestamps and referring pages. None of this information can personally identify specific [["1.0.0" or "user"]] to this [["https://assilatours-web.web.app/" or "app"]]. The information is tracked for routine administration and maintenance purposes.
 
 
 ## Cookies
 
-Where necessary, this [["https://assilatours-web.web.app/" or "app"]] uses cookies to store information about a visitor’s preferences and history in order to better serve the [["1.0.0" or "user"]] and/or present the [["visitor" or "user"]] with customized content.
+Where necessary, this [["https://assilatours-web.web.app/" or "app"]] uses cookies to store information about a visitor’s preferences and history in order to better serve the [["1.0.0" or "user"]] and/or present the [["1.0.0" or "user"]] with customized content.
 
 
 ## Advertisement and Other Third Parties
