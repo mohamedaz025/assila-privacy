@@ -10,22 +10,22 @@ This [["https://assilatours-web.web.app/" or "app"]] track basic information abo
 
 ## Cookies
 
-Where necessary, this [["https://assilatours-web.web.app/" or "app"]] uses cookies to store information about a visitor’s preferences and history in order to better serve the [["1.0.0" or "user"]] and/or present the [["1.0.0" or "user"]] with customized content.
+Where necessary, this [https://assilatravel.com/] uses cookies to store information about a visitor’s preferences and history in order to better serve the [["1.0.0"] and/or present the ["1.0.0"] with customized content.
 
 
 ## Advertisement and Other Third Parties
 
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track [["visitors" or "user"]] activities on this [["website" or "app"]] in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This [["https://assilatours-web.web.app/" or "app"]] has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
+Advertising partners and other third parties may use cookies, scripts and/or web beacons to track [1.0.0] activities on this [https://assilatravel.com/] in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This [https://assilatravel.com/] has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
 
 
 ## Links to Third Party Websites
 
-[["We" or "I"]] have included links on this [["https://assilatours-web.web.app/" or "app"]] for your use and reference. [["We" or "I"]] are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from [["our" or "my"]] own.
+[["We" or "I"]] have included links on this [https://assilatravel.com/] for your use and reference. [["We" or "I"]] are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from [["our" or "my"]] own.
 
 
 ## Security
 
-The security of your personal information is important to [["us" or "me"]], but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While [["we" or "I"]] strive to use commercially acceptable means to protect your personal information, [["we" or "I"]] cannot guarantee its absolute security.
+The security of your personal information is important to [https://assilatravel.com/], but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While [["we" or "I"]] strive to use commercially acceptable means to protect your personal information, [["we" or "I"]] cannot guarantee its absolute security.
 
 
 ## Changes To This Privacy Policy
